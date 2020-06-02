@@ -20,3 +20,59 @@ for genre_a_tag in book_genre_a_tags:
         print(len(prod_links))
     break;
 #########
+
+https://www.flipkart.com/books/higher-education-and-professional-books/earth-sciences-books/pr?sid=bks,f50,vex&p[]=facets.language%255B%255D%3DHindi&p[]=facets.language%255B%255D%3DEnglish&p[]=facets.language%255B%255D%3DHindi&p[]=facets.language%255B%255D%3DEnglish&otracker=categorytree
+
+https://www.flipkart.com/books/higher-education-and-professional-books/earth-sciences-books/pr?sid=bks%2Cf50%2Cvex&p%5B%5D=facets.language%255B%255D%3DHindi&p%5B%5D=facets.language%255B%255D%3DEnglish&p%5B%5D=facets.language%255B%255D%3DHindi&p%5B%5D=facets.language%255B%255D%3DEnglish&otracker=categorytree&page=2
+
+https://www.flipkart.com/books/higher-education-and-professional-books/earth-sciences-books/pr?sid=bks%2Cf50%2Cvex&otracker=categorytree&page=2
+
+https://www.flipkart.com/books/higher-education-and-professional-books/earth-sciences-books/pr?sid=bks%2Cf50%2Cvex&otracker=categorytree&p%5B%5D=facets.language%255B%255D%3DEnglish&p%5B%5D=facets.language%255B%255D%3DHindi
+
+https://www.flipkart.com/books/higher-education-and-professional-books/electronics-and-communications-engineering-books/pr?sid=bks,f50,pw8&otracker=categorytree&p%5B%5D=facets.language%255B%255D%3DEnglish&p%5B%5D=facets.language%255B%255D%3DHindi
+
+https://www.flipkart.com/books/higher-education-and-professional-books/law-books/pr?sid=bks%2Cf50%2C9pq&otracker=categorytree&p%5B%5D=facets.language%255B%255D%3DEnglish&p%5B%5D=facets.language%255B%255D%3DHindi&page=25
+
+
+
+F:\Utily_tools\classpath\git\mingw64\bin;
+F:\Utily_tools\classpath\git\usr\bin;
+C:\Users\BANDHAM\bin;
+F:\Utily_tools\classpath\cmder\vendor\conemu-maximus5\ConEmu\Scripts;
+F:\Utily_tools\classpath\cmder\vendor\conemu-maximus5;
+F:\Utily_tools\classpath\cmder\vendor\conemu-maximus5\ConEmu;
+C:\Windows\system32;
+C:\Windows;
+C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\v1.0\;
+F:\Utily_tools\classpath\git\bin;
+F:\Utily_tools\classpath\cmder;
+C:\Users\BANDHAM\AppData\Local\Continuum\anaconda3;
+C:\Users\BANDHAM\AppData\Local\Continuum\anaconda3\Library\mingw-w64\bin;
+C:\Users\BANDHAM\AppData\Local\Continuum\anaconda3\Library\usr\bin;
+C:\Users\BANDHAM\AppData\Local\Continuum\anaconda3\Library\bin;
+C:\Users\BANDHAM\AppData\Local\Continuum\anaconda3\Scripts;
+C:\Users\BANDHAM\AppData\Local\Programs\Microsoft VS Code\bin
+
+9789387421615, 9789387421615
+
+
+'isbn_10','isbn_13','image','thumb','title','authors','languages','genres','number_of_pages','description','publishers','rating','price'
+
+isbn,image,thumb,title,authors,languages,genres,number_of_pages,description,publishers,rating,price
+
+
+After adding default flipkart image as default image. Started at 11:47PM
+fiction - 2000 started at 3:13AM
+
+5.10pm 1304
+
+2> 195 @6.40PM
+1,1> 305 @6.40PM
+
+
+
+
+
+
+
